@@ -1,0 +1,28 @@
+{
+"livros"´[
+{
+    "id": 1,
+    "titulo": "Liro-novo",
+    "autor": "diogo"
+  },
+  {
+  
+    "id": 2,
+    "titulo": "crime e castigo",
+    "autor":Flódor Dostoiésvski"
+    
+   
+  },
+  
+  {
+    "id": 3,
+    "titulo": "Itrodução à Programação com Python: Algoritmos e Lógica de Programação",
+    "autor":"Nilo Ney Coutinho Menezes"
+    
+   }
+    
+  
+  
+}
+  
+  
