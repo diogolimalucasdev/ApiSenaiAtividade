@@ -1,5 +1,5 @@
 {
-"livros"´[
+"livros":[
 {
     "id": 1,
     "titulo": "Liro-novo",
@@ -9,7 +9,7 @@
   
     "id": 2,
     "titulo": "crime e castigo",
-    "autor":Flódor Dostoiésvski"
+    "autor":"Flódor Dostoiésvski"
     
    
   },
